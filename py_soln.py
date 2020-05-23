@@ -9,7 +9,7 @@
 # writing at some point in their academic career, be it essays, research papers,
 # technical write ups, or scripts.
 
-1.	Using the file school_prompt2.txt, find the number of characters in the file and assign that value to the variable num_char.
+1.Using the file school_prompt2.txt, find the number of characters in the file and assign that value to the variable num_char.
 
 # solution_1
 fileref = open("school_prompt2.txt" , "r")
@@ -31,7 +31,7 @@ print(num_char)
 # However, I wonder how I will get by with all the different languages.
 # I only know English!
 
-2.	Find the number of lines in the file, travel_plans2.txt, and assign it to the variable num_lines.
+2.Find the number of lines in the file, travel_plans2.txt, and assign it to the variable num_lines.
 
 # solution_2
 fileref = open ("travel_plans2.txt","r")
@@ -48,7 +48,7 @@ print(num_lines)
 # Scared afraid fearful panicked terrified petrified startled
 # Nervous anxious jittery jumpy tense uneasy apprehensive
 
-3.	Create a string called first_forty that is comprised of the first 40 characters of emotion_words2.txt.
+3.Create a string called first_forty that is comprised of the first 40 characters of emotion_words2.txt.
 
 # solution_3
 fileref = open("emotion_words2.txt", "r")
